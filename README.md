@@ -1,0 +1,1 @@
+# the_convenience_store_ru_localization

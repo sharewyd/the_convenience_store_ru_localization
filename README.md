@@ -44,7 +44,7 @@
 
 ## 🖼️ Скриншоты
 <div>
-  <img src="https://images.steamusercontent.com/ugc/17510420967490680560/004724A788D054E5D7F05E6BBD0EFABBA4608070/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%"/><img src="https://images.steamusercontent.com/ugc/16545856920828588025/EAAABCA7FA65ADDABCD097542C619EBA96591F22/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%"/>
+  <img src="https://images.steamusercontent.com/ugc/17510420967490680560/004724A788D054E5D7F05E6BBD0EFABBA4608070/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%"/><img src="https://images.steamusercontent.com/ugc/12859546803329916278/482EFA9B6E7E9694E2A84EE82B7BCF708CE4D91B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%"/>
   <img src="https://images.steamusercontent.com/ugc/14861206955047217753/7DC7A67F687DC3A18714041CBB8267C628AFEA11/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%"/><img src="https://images.steamusercontent.com/ugc/17713685616055869744/7D47425252E53617A14D773EF1A256B045F80CB6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%"/>
 </div>
 
